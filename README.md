@@ -1,1 +1,1 @@
-![alt tag]https://github.com/NickTerrafranca/task-systems-check/er_diagram.tiff
+![alt tag]https://github.com/NickTerrafranca/task-systems-check/blob/master/er_diagram.tiff
